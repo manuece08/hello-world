@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/manuece08/hello-world.git
     targetRevision: HEAD
-    path: ./declarative/manifests/heliocentric-model
+    path: ./hello/declarative/manifests/heliocentric-model
    
   destination:
     server: https://kubernetes.default.svc
