@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/manuece08/hello-world.git
     targetRevision: HEAD
-    path: ./declarative/manifests/geocentric-model
+    path: ./declarative/manifests/mono-app
    
   destination:
     server: https://kubernetes.default.svc
